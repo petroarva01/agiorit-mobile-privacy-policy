@@ -58,6 +58,15 @@ Children can use Agiorit safely, because the app does not collect personal data 
 
 Since we do not store your personal data, there is nothing for us to show, correct or delete. For questions about data handled by Apple, Google or RevenueCat, contact us and we will help.
 
+### Data deletion
+
+Agiorit has no user accounts. You can delete your data like this:
+
+1. **Data on your device** (settings, saved prayers, family patron saint, commemoration lists, reminders): uninstall the app, or on Android open *Settings → Apps → Agiorit → Storage → Clear data*. The data is deleted immediately and cannot be recovered.
+2. **Purchase data at RevenueCat** (anonymous identifier and transaction history): send an email to [contact@teosit.com](mailto:contact@teosit.com) with the subject "Delete my data" and the order number from your Google Play or App Store receipt (for example `GPA.1234-5678-9012-34567`). We will delete this data within 30 days and confirm by email.
+
+Records of the payment itself are kept by Google or Apple according to their own policies and legal obligations; we cannot delete them.
+
 ### Changes
 
 If we change this policy, we will publish the new version in the app and on this page with the date of the last update.
@@ -113,6 +122,15 @@ Agiorit mogu bezbedno koristiti i deca, jer aplikacija ni od koga ne prikuplja l
 ### Vaša prava
 
 Pošto ne čuvamo vaše lične podatke, nemamo šta da vam pokažemo, ispravimo ili obrišemo. Za pitanja o podacima koje obrađuju Apple, Google ili RevenueCat obratite nam se i pomoći ćemo vam.
+
+### Brisanje podataka
+
+Agiorit nema korisničke naloge. Svoje podatke možete obrisati ovako:
+
+1. **Podaci na uređaju** (podešavanja, sačuvane molitve, krsna slava, pomjanik, podsetnici): obrišite aplikaciju ili na Androidu otvorite *Podešavanja → Aplikacije → Agiorit → Memorija → Obriši podatke*. Podaci se brišu odmah i ne mogu se vratiti.
+2. **Podaci o kupovinama u RevenueCat-u** (anonimni identifikator i istorija transakcija): pošaljite email na [contact@teosit.com](mailto:contact@teosit.com) sa naslovom „Brisanje podataka“ i brojem narudžbine sa računa iz Google Play-a ili App Store-a (na primer `GPA.1234-5678-9012-34567`). Podatke ćemo obrisati u roku od 30 dana i potvrditi vam emailom.
+
+Podatke o samom plaćanju čuvaju Google ili Apple prema svojim pravilima i zakonskim obavezama; njih ne možemo obrisati.
 
 ### Izmene
 
